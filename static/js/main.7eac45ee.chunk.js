@@ -1,2 +1,0 @@
-(this["webpackJsonpwhat-the-ok"]=this["webpackJsonpwhat-the-ok"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);n(1);var r=n(3),s=n.n(r),o=n(0);function c(){return Object(o.jsx)("div",{style:{display:"flex",justifyContent:"center",alignItems:"center"},children:Object(o.jsx)("p",{style:{fontFamily:"sans-serif",fontWeight:"bold",fontSize:"3rem",color:"cornflowerblue"},children:"What The OK!"})})}s.a.render(Object(o.jsx)(c,{}),document.querySelector("#app"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.7eac45ee.chunk.js.map
